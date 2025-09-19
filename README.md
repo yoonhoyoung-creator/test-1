@@ -1,4 +1,4 @@
-![마라탕입니다](./마라탕.jpeg)
+![생쥐입니다](https://github.com/user-attachments/assets/b50ff493-f3e5-4806-9934-5c5a8e943038)
 
 # README 파일이란?
 
